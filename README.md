@@ -36,10 +36,13 @@ I'm passionate about AI, Machine Learning, and data technologies. I enjoy workin
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib&logoColor=black" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Statistics-00599C?logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Probability-4B8BBE?logo=canonical&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-FF6F00?logo=semanticweb&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer%20Vision-8A2BE2?logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+
 
 
 
