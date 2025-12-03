@@ -4,9 +4,7 @@
 ---
 
 ## 💫 About Me
-- 💻 Passionate about Machine Learning & Deep Learning  
-- 🤖 Love working on Computer Vision & NLP  
-- 🚀 Always learning and building real-world AI projects  
+I'm passionate about AI, Machine Learning, and data technologies. I enjoy working with Python, SQL, and deep learning tools to solve real problems and learn new skills. My goal is to grow as a data professional, build smart solutions, and make a positive impact in the field.
 
 ---
 
