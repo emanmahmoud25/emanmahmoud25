@@ -25,7 +25,7 @@ I'm passionate about AI, Machine Learning, and data technologies. I enjoy workin
 <p align="left">
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-005C84?logo=sql&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 
 <br>
