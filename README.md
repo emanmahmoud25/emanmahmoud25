@@ -26,10 +26,14 @@ I'm passionate about AI, Machine Learning, and data technologies. I enjoy workin
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+
 <br>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+
 <br>
 
 <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
