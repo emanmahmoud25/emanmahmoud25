@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hi, I'm Eman Mahmoud</h1>
 <h3 align="center">Data Scientist | ML Engineer</h3>
 
 ---
