@@ -3,7 +3,7 @@
 ---
 
 ## 💫 About Me
-I am passionate about Data Science, AI, and Machine Learning, with experience in solving real-world problems across Natural Language Processing, Generative AI, and Computer Vision. My goal is to grow as a data professional, develop intelligent solutions, and make a meaningful impact in the field.
+I’m passionate about Data Science, AI, and Machine Learning, and I enjoy exploring how they can solve real-world challenges. I focus on projects in Natural Language Processing, Generative AI, and Computer Vision, and I’m driven to grow as a data professional, develop innovative solutions, and make a significant impact in the field of AI and data science.
 
 ---
 
